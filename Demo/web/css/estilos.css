@@ -49,9 +49,9 @@
   color-scheme: dark;
 }
 
-[data-categoria='Colores'] { --cat: var(--coral); }
-[data-categoria='Cortesía'] { --cat: var(--violeta); }
-[data-categoria='Números'] { --cat: var(--ambar); }
+[data-categoria='Colores'] { --cat: #6fa8ff; }
+[data-categoria='Cortesía'] { --cat: #b98cff; }
+[data-categoria='Números'] { --cat: var(--menta); }
 
 /* --------------------------------------------------------------------- Base */
 
@@ -327,14 +327,12 @@ svg { display: block; }
 .boton-principal:active { transform: translateY(0) scale(0.98); }
 .boton-principal:disabled { cursor: progress; filter: saturate(0.5) brightness(0.8); transform: none; }
 
-.carga { display: grid; gap: 6px; min-width: 150px; font-family: var(--mono); font-size: 0.72rem; color: var(--texto-3); letter-spacing: 0.03em; }
-.carga-barra { height: 3px; border-radius: 3px; background: rgba(255, 255, 255, 0.12); overflow: hidden; }
+.carga { display: grid; gap: 8px; min-width: 195px; font-family: var(--mono); font-size: 0.94rem; color: var(--texto-3); letter-spacing: 0.03em; }
+.carga-barra { height: 4px; border-radius: 4px; background: rgba(255, 255, 255, 0.12); overflow: hidden; }
 .carga-barra i { display: block; height: 100%; width: 0%; border-radius: inherit; background: var(--menta); transition: width 0.3s; }
 .carga.lista { color: var(--menta); }
 .carga.lista .carga-barra { display: none; }
 
-.privacidad { display: flex; align-items: center; gap: 8px; color: var(--texto-3); font-size: clamp(0.76rem, 1.5cqw, 0.86rem); }
-.privacidad svg { width: 17px; height: 17px; flex: none; color: var(--menta); }
 .aviso-error {
   padding: 10px 14px; border-radius: 12px; font-size: 0.9rem; color: #ffd9d9;
   background: rgba(255, 107, 107, 0.12); border: 1px solid rgba(255, 107, 107, 0.35);
@@ -500,6 +498,23 @@ svg { display: block; }
 
 /* ------------------------------------------------------------------- Móvil */
 
+/* ---------------------------------------------------------------- Pie de página */
+
+.pie {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 24px;
+  max-width: 1480px; margin: 0 auto;
+  padding: 18px clamp(16px, 2.4vw, 32px) 26px;
+  border-top: 1px solid var(--borde);
+  color: var(--texto-3); font-size: 0.8rem;
+}
+.pie-enlaces { display: flex; align-items: center; gap: 18px; }
+.pie-enlaces a {
+  display: inline-flex; align-items: center; gap: 7px;
+  color: var(--texto-2); text-decoration: none; transition: color 0.2s;
+}
+.pie-enlaces a:hover { color: var(--texto); }
+.pie-enlaces svg { width: 16px; height: 16px; }
+
 @media (max-width: 1020px) {
   .tablero { grid-template-columns: minmax(0, 1fr); gap: 16px; min-height: 0; }
   .columna-camara { gap: 16px; }
@@ -515,15 +530,30 @@ svg { display: block; }
   .dato { display: none; }
   .boton-suave { padding: 8px 13px; font-size: 0.84rem; }
   .escenario { border-radius: 22px; }
-  .escenario[data-estado='inicio'] { --ar: 3 / 4; }
+  /* En la pantalla de inicio el recuadro crece si el texto no cabe (celulares pequeños). */
+  .escenario[data-estado='inicio'] {
+    width: 100%; aspect-ratio: auto; min-height: min(calc((100vw - 32px) * 4 / 3), 72dvh);
+    display: grid;
+  }
+  .escenario[data-estado='inicio'] .bienvenida:not(.oculta) { position: relative; inset: auto; }
   .bienvenida { grid-template-columns: 1fr; padding: 24px 22px; align-content: center; }
-  .bienvenida-mano { display: none; }
+  /* La mano queda pequeña en la esquina libre, junto al botón. */
+  .bienvenida-mano {
+    position: absolute; right: 18px; bottom: 20px; width: clamp(66px, 23cqw, 96px); height: auto;
+    max-height: none; pointer-events: none;
+  }
   .bienvenida h1 { font-size: clamp(1.7rem, 8cqw, 2.4rem); }
+  .pie { flex-direction: column; align-items: flex-start; }
   .pasos { font-size: 0.92rem; }
   .tarjeta { padding: 18px; border-radius: 20px; }
   .estado { top: 12px; left: 12px; }
   .herramientas { top: 12px; right: 12px; }
   .pista { top: 58px; }
+}
+
+/* Celulares muy angostos: no queda espacio libre para la mano. */
+@media (max-width: 359px) {
+  .bienvenida-mano { display: none; }
 }
 
 /* Celular acostado: el escenario ocupa la pantalla completa, sin cabecera encima. */
