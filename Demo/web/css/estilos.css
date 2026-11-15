@@ -162,14 +162,15 @@ svg { display: block; }
 
 /* ---------------------------------------------------------------- Escenario */
 
-.marco { display: grid; justify-items: center; }
+.marco { display: grid; justify-items: center; container-type: inline-size; }
 
 .escenario {
   --ar: 16 / 9;
   --aro: rgba(255, 255, 255, 0.10);
   --brillo: transparent;
   position: relative; isolation: isolate; overflow: hidden;
-  width: min(100%, calc(78dvh * (var(--ar))));
+  --alto-max: 78dvh;
+  width: min(100%, calc(var(--alto-max) * (var(--ar))));
   aspect-ratio: var(--ar);
   border-radius: 28px;
   background: #07090d;
@@ -214,6 +215,13 @@ svg { display: block; }
   width: 9px; height: 9px; border-radius: 50%; background: var(--luz);
   box-shadow: 0 0 0 0 color-mix(in srgb, var(--luz) 60%, transparent);
 }
+/* En la pantalla de inicio el recuadro mantiene su forma, pero crece si el texto no cabe
+   (ventanas bajas, celulares pequeños). */
+.escenario[data-estado='inicio'] {
+  aspect-ratio: auto; display: grid;
+  min-height: min(calc(100cqw / (var(--ar))), var(--alto-max));
+}
+.escenario[data-estado='inicio'] .bienvenida:not(.oculta) { position: relative; inset: auto; }
 [data-estado='inicio'] .estado, [data-estado='inicio'] .herramientas, [data-estado='inicio'] .velo { display: none; }
 [data-estado='preparando'] .estado { --luz: var(--violeta); }
 [data-estado='esperando'] .estado { --luz: var(--menta); }
@@ -520,7 +528,7 @@ svg { display: block; }
   .columna-camara { gap: 16px; }
   .columna-datos { contain: none; gap: 16px; }
   .vocabulario-grupos { overflow: visible; mask-image: none; -webkit-mask-image: none; }
-  .escenario { width: min(100%, calc(72dvh * (var(--ar)))); }
+  .escenario { --alto-max: 72dvh; }
 }
 
 @media (max-width: 640px) {
@@ -530,12 +538,7 @@ svg { display: block; }
   .dato { display: none; }
   .boton-suave { padding: 8px 13px; font-size: 0.84rem; }
   .escenario { border-radius: 22px; }
-  /* En la pantalla de inicio el recuadro crece si el texto no cabe (celulares pequeños). */
-  .escenario[data-estado='inicio'] {
-    width: 100%; aspect-ratio: auto; min-height: min(calc((100vw - 32px) * 4 / 3), 72dvh);
-    display: grid;
-  }
-  .escenario[data-estado='inicio'] .bienvenida:not(.oculta) { position: relative; inset: auto; }
+  .escenario[data-estado='inicio'] { --ar: 3 / 4; }
   .bienvenida { grid-template-columns: 1fr; padding: 24px 22px; align-content: center; }
   /* La mano queda pequeña en la esquina libre, junto al botón. */
   .bienvenida-mano {
@@ -561,7 +564,7 @@ svg { display: block; }
   .cabecera { padding-top: 8px; padding-bottom: 6px; }
   .marca-icono { width: 30px; height: 30px; padding: 5px; border-radius: 10px; }
   .marca-texto span { display: none; }
-  .escenario { width: min(100%, calc((100dvh - 12px) * (var(--ar)))); border-radius: 18px; }
+  .escenario { --alto-max: calc(100dvh - 12px); border-radius: 18px; }
   .escenario[data-estado='inicio'] { --ar: 16 / 9; }
   .bienvenida { grid-template-columns: 1fr; padding: 14px 22px; }
   .bienvenida .entrada, .bienvenida-mano { display: none; }
