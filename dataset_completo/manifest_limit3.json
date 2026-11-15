@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Videos Colors/1/Colores/amarillo/1.avi",
+    "category": "Colors",
+    "signer": "1",
+    "gloss": "amarillo",
+    "text": "amarillo",
+    "path": "Data/RawVideos/Videos Colors/1/Colores/amarillo/1.avi",
+    "cache": "dataset_completo/features/d90910d5104fdbfb16cd.npz",
+    "frames": 30,
+    "seconds": 7.378,
+    "status": "extracted"
+  },
+  {
+    "name": "Videos Colors/1/Colores/amarillo/2.avi",
+    "category": "Colors",
+    "signer": "1",
+    "gloss": "amarillo",
+    "text": "amarillo",
+    "path": "Data/RawVideos/Videos Colors/1/Colores/amarillo/2.avi",
+    "cache": "dataset_completo/features/13c1f7896406767ec129.npz",
+    "frames": 30,
+    "seconds": 6.803,
+    "status": "extracted"
+  },
+  {
+    "name": "Videos Colors/1/Colores/amarillo/3.avi",
+    "category": "Colors",
+    "signer": "1",
+    "gloss": "amarillo",
+    "text": "amarillo",
+    "path": "Data/RawVideos/Videos Colors/1/Colores/amarillo/3.avi",
+    "cache": "dataset_completo/features/ec609f368a3e28426c27.npz",
+    "frames": 30,
+    "seconds": 3.047,
+    "status": "extracted"
+  }
+]

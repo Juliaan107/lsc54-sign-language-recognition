@@ -1,0 +1,26 @@
+# Python 3.13 (probado con 3.13.5 en Windows, solo CPU).
+# Instalar con:  pip install -r requirements.txt
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# Base: cuadernos, SL-TSSI-DenseNet y aumento de datos
+torch==2.15.0
+torchvision==0.29.2
+numpy==2.5.4
+matplotlib==3.11.2
+PyYAML==6.0.3
+tqdm==4.70.1
+ipykernel==7.4.0
+
+# Extracción de puntos con MediaPipe (lsc_pipeline.py dataset)
+mediapipe==1.2.0
+opencv-contrib-python==5.0.0.93
+
+# Transformer de signjoey (carpeta slt/)
+tensorflow==2.21.0
+tensorboard==2.21.0
+torchtext==0.6.0
+portalocker==4.4.2
+
+# Exportar el modelo del demo a ONNX (Demo/herramientas/exportar_onnx.py)
+onnx==1.23.2
+onnxruntime==1.32.0

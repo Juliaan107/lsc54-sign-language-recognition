@@ -1,0 +1,568 @@
+Videos Colors/12/Colores/amarillo/1.avi|amarillo
+Videos Colors/12/Colores/amarillo/2.avi|amarillo
+Videos Colors/12/Colores/amarillo/3.avi|amarillo
+Videos Colors/12/Colores/amarillo/4.avi|amarillo
+Videos Colors/12/Colores/amarillo/5.avi|amarillo
+Videos Colors/12/Colores/azul/1.avi|azul
+Videos Colors/12/Colores/azul/2.avi|azul
+Videos Colors/12/Colores/azul/3.avi|azul
+Videos Colors/12/Colores/azul/4.avi|azul
+Videos Colors/12/Colores/azul/5.avi|negro
+Videos Colors/12/Colores/blanco/1.avi|blanco
+Videos Colors/12/Colores/blanco/2.avi|blanco
+Videos Colors/12/Colores/blanco/3.avi|blanco
+Videos Colors/12/Colores/blanco/4.avi|blanco
+Videos Colors/12/Colores/blanco/5.avi|blanco
+Videos Colors/12/Colores/cafe/1.avi|cafe
+Videos Colors/12/Colores/cafe/2.avi|cafe
+Videos Colors/12/Colores/cafe/3.avi|cafe
+Videos Colors/12/Colores/cafe/4.avi|cafe
+Videos Colors/12/Colores/cafe/5.avi|cafe
+Videos Colors/12/Colores/gris/1.avi|gris
+Videos Colors/12/Colores/gris/2.avi|gris
+Videos Colors/12/Colores/gris/3.avi|gris
+Videos Colors/12/Colores/gris/4.avi|gris
+Videos Colors/12/Colores/gris/5.avi|gris
+Videos Colors/12/Colores/morado/1.avi|morado
+Videos Colors/12/Colores/morado/2.avi|morado
+Videos Colors/12/Colores/morado/3.avi|morado
+Videos Colors/12/Colores/morado/4.avi|morado
+Videos Colors/12/Colores/morado/5.avi|morado
+Videos Colors/12/Colores/naranja/1.avi|naranja
+Videos Colors/12/Colores/naranja/2.avi|naranja
+Videos Colors/12/Colores/naranja/3.avi|naranja
+Videos Colors/12/Colores/naranja/4.avi|naranja
+Videos Colors/12/Colores/naranja/5.avi|naranja
+Videos Colors/12/Colores/negro/1.avi|negro
+Videos Colors/12/Colores/negro/2.avi|negro
+Videos Colors/12/Colores/negro/3.avi|negro
+Videos Colors/12/Colores/negro/4.avi|negro
+Videos Colors/12/Colores/negro/5.avi|negro
+Videos Colors/12/Colores/rojo/1.avi|rojo
+Videos Colors/12/Colores/rojo/2.avi|rojo
+Videos Colors/12/Colores/rojo/3.avi|rojo
+Videos Colors/12/Colores/rojo/4.avi|rojo
+Videos Colors/12/Colores/rojo/5.avi|rojo
+Videos Colors/12/Colores/rosado/1.avi|rosado
+Videos Colors/12/Colores/rosado/2.avi|rosado
+Videos Colors/12/Colores/rosado/3.avi|rosado
+Videos Colors/12/Colores/rosado/4.avi|rosado
+Videos Colors/12/Colores/rosado/5.avi|rosado
+Videos Colors/12/Colores/verde/1.avi|verde
+Videos Colors/12/Colores/verde/2.avi|verde
+Videos Colors/12/Colores/verde/3.avi|verde
+Videos Colors/12/Colores/verde/4.avi|verde
+Videos Colors/12/Colores/verde/5.avi|verde
+Videos Colors/2/Colores/amarillo/0.avi|chao
+Videos Colors/2/Colores/amarillo/1.avi|amarillo
+Videos Colors/2/Colores/amarillo/2.avi|amarillo
+Videos Colors/2/Colores/amarillo/3.avi|amarillo
+Videos Colors/2/Colores/amarillo/4.avi|amarillo
+Videos Colors/2/Colores/amarillo/5.avi|amarillo
+Videos Colors/2/Colores/azul/0.avi|azul
+Videos Colors/2/Colores/azul/1.avi|azul
+Videos Colors/2/Colores/azul/2.avi|azul
+Videos Colors/2/Colores/azul/3.avi|azul
+Videos Colors/2/Colores/azul/4.avi|azul
+Videos Colors/2/Colores/azul/5.avi|azul
+Videos Colors/2/Colores/blanco/1.avi|blanco
+Videos Colors/2/Colores/blanco/2.avi|blanco
+Videos Colors/2/Colores/blanco/3.avi|blanco
+Videos Colors/2/Colores/blanco/4.avi|blanco
+Videos Colors/2/Colores/blanco/5.avi|blanco
+Videos Colors/2/Colores/cafe/0.avi|denada
+Videos Colors/2/Colores/cafe/1.avi|cafe
+Videos Colors/2/Colores/cafe/2.avi|cafe
+Videos Colors/2/Colores/cafe/3.avi|cafe
+Videos Colors/2/Colores/cafe/4.avi|cafe
+Videos Colors/2/Colores/cafe/5.avi|cafe
+Videos Colors/2/Colores/gris/0.avi|gris
+Videos Colors/2/Colores/gris/1.avi|gris
+Videos Colors/2/Colores/gris/2.avi|gris
+Videos Colors/2/Colores/gris/3.avi|gris
+Videos Colors/2/Colores/gris/4.avi|gris
+Videos Colors/2/Colores/gris/5.avi|gris
+Videos Colors/2/Colores/morado/0.avi|buenos dias
+Videos Colors/2/Colores/morado/1.avi|morado
+Videos Colors/2/Colores/morado/2.avi|morado
+Videos Colors/2/Colores/morado/3.avi|morado
+Videos Colors/2/Colores/morado/4.avi|cafe
+Videos Colors/2/Colores/morado/5.avi|morado
+Videos Colors/2/Colores/naranja/0.avi|invitar
+Videos Colors/2/Colores/naranja/1.avi|naranja
+Videos Colors/2/Colores/naranja/2.avi|naranja
+Videos Colors/2/Colores/naranja/3.avi|naranja
+Videos Colors/2/Colores/naranja/4.avi|naranja
+Videos Colors/2/Colores/naranja/5.avi|naranja
+Videos Colors/2/Colores/negro/0.avi|excelente
+Videos Colors/2/Colores/negro/1.avi|negro
+Videos Colors/2/Colores/negro/2.avi|negro
+Videos Colors/2/Colores/negro/3.avi|negro
+Videos Colors/2/Colores/negro/4.avi|negro
+Videos Colors/2/Colores/negro/5.avi|negro
+Videos Colors/2/Colores/rojo/0.avi|buenas tardes
+Videos Colors/2/Colores/rojo/1.avi|rojo
+Videos Colors/2/Colores/rojo/2.avi|rojo
+Videos Colors/2/Colores/rojo/3.avi|rojo
+Videos Colors/2/Colores/rojo/4.avi|rojo
+Videos Colors/2/Colores/rojo/5.avi|rojo
+Videos Colors/2/Colores/rosado/0.avi|por favor
+Videos Colors/2/Colores/rosado/1.avi|cafe
+Videos Colors/2/Colores/rosado/2.avi|rosado
+Videos Colors/2/Colores/rosado/3.avi|cafe
+Videos Colors/2/Colores/rosado/4.avi|cafe
+Videos Colors/2/Colores/rosado/5.avi|cafe
+Videos Colors/2/Colores/verde/0.avi|verde
+Videos Colors/2/Colores/verde/1.avi|verde
+Videos Colors/2/Colores/verde/2.avi|verde
+Videos Colors/2/Colores/verde/3.avi|verde
+Videos Colors/2/Colores/verde/4.avi|verde
+Videos Colors/2/Colores/verde/5.avi|verde
+Videos Courtesy/21/Cordialidad/Apoyar/0.avi|apoyar
+Videos Courtesy/21/Cordialidad/Apoyar/1.avi|apoyar
+Videos Courtesy/21/Cordialidad/Apoyar/2.avi|apoyar
+Videos Courtesy/21/Cordialidad/Ayudar/0.avi|ayudar
+Videos Courtesy/21/Cordialidad/Ayudar/1.avi|ayudar
+Videos Courtesy/21/Cordialidad/Ayudar/2.avi|ayudar
+Videos Courtesy/21/Cordialidad/Baño/0.avi|baño
+Videos Courtesy/21/Cordialidad/Baño/1.avi|chao
+Videos Courtesy/21/Cordialidad/Baño/2.avi|chao
+Videos Courtesy/21/Cordialidad/Bien/0.avi|rojo
+Videos Courtesy/21/Cordialidad/Bien/1.avi|azul
+Videos Courtesy/21/Cordialidad/Bien/2.avi|rojo
+Videos Courtesy/21/Cordialidad/Bienvenido/0.avi|bienvenido
+Videos Courtesy/21/Cordialidad/Bienvenido/1.avi|bienvenido
+Videos Courtesy/21/Cordialidad/Bienvenido/2.avi|bienvenido
+Videos Courtesy/21/Cordialidad/Buenas Noches/0.avi|buenas noches
+Videos Courtesy/21/Cordialidad/Buenas Noches/1.avi|buenas noches
+Videos Courtesy/21/Cordialidad/Buenas Noches/2.avi|buenas noches
+Videos Courtesy/21/Cordialidad/Buenas tardes/0.avi|buenas tardes
+Videos Courtesy/21/Cordialidad/Buenas tardes/1.avi|buenas tardes
+Videos Courtesy/21/Cordialidad/Buenas tardes/2.avi|buenas tardes
+Videos Courtesy/21/Cordialidad/Buenos dias/0.avi|buenos dias
+Videos Courtesy/21/Cordialidad/Buenos dias/1.avi|buenos dias
+Videos Courtesy/21/Cordialidad/Buenos dias/2.avi|buenos dias
+Videos Courtesy/21/Cordialidad/Chao/0.avi|baño
+Videos Courtesy/21/Cordialidad/Chao/1.avi|amarillo
+Videos Courtesy/21/Cordialidad/Chao/2.avi|amarillo
+Videos Courtesy/21/Cordialidad/Como esta/0.avi|como esta
+Videos Courtesy/21/Cordialidad/Como esta/1.avi|muchas gracias
+Videos Courtesy/21/Cordialidad/Como esta/2.avi|como esta
+Videos Courtesy/21/Cordialidad/Con gusto/0.avi|blanco
+Videos Courtesy/21/Cordialidad/Con gusto/1.avi|con gusto
+Videos Courtesy/21/Cordialidad/Con gusto/2.avi|con gusto
+Videos Courtesy/21/Cordialidad/Denada/0.avi|perdon
+Videos Courtesy/21/Cordialidad/Denada/1.avi|denada
+Videos Courtesy/21/Cordialidad/Denada/2.avi|denada
+Videos Courtesy/21/Cordialidad/Esperar/0.avi|esperar
+Videos Courtesy/21/Cordialidad/Esperar/1.avi|esperar
+Videos Courtesy/21/Cordialidad/Esperar/2.avi|esperar
+Videos Courtesy/21/Cordialidad/Excelente/0.avi|excelente
+Videos Courtesy/21/Cordialidad/Excelente/1.avi|excelente
+Videos Courtesy/21/Cordialidad/Excelente/2.avi|invitar
+Videos Courtesy/21/Cordialidad/Gracias/0.avi|perdon
+Videos Courtesy/21/Cordialidad/Gracias/1.avi|muchas gracias
+Videos Courtesy/21/Cordialidad/Gracias/2.avi|muchas gracias
+Videos Courtesy/21/Cordialidad/Hola/0.avi|baño
+Videos Courtesy/21/Cordialidad/Hola/1.avi|chao
+Videos Courtesy/21/Cordialidad/Hola/2.avi|buenos dias
+Videos Courtesy/21/Cordialidad/Invitar/0.avi|buenas noches
+Videos Courtesy/21/Cordialidad/Invitar/1.avi|invitar
+Videos Courtesy/21/Cordialidad/Invitar/2.avi|invitar
+Videos Courtesy/21/Cordialidad/Lo siento/0.avi|rojo
+Videos Courtesy/21/Cordialidad/Lo siento/1.avi|con gusto
+Videos Courtesy/21/Cordialidad/Lo siento/2.avi|baño
+Videos Courtesy/21/Cordialidad/Mal/0.avi|mal
+Videos Courtesy/21/Cordialidad/Mal/1.avi|muy mal
+Videos Courtesy/21/Cordialidad/Mal/2.avi|muy mal
+Videos Courtesy/21/Cordialidad/Maso Menos/0.avi|maso menos
+Videos Courtesy/21/Cordialidad/Maso Menos/1.avi|esperar
+Videos Courtesy/21/Cordialidad/Maso Menos/2.avi|maso menos
+Videos Courtesy/21/Cordialidad/Muchas Gracias/0.avi|muchas gracias
+Videos Courtesy/21/Cordialidad/Muchas Gracias/1.avi|muchas gracias
+Videos Courtesy/21/Cordialidad/Muchas Gracias/2.avi|muchas gracias
+Videos Courtesy/21/Cordialidad/Muy Bien/0.avi|muy bien
+Videos Courtesy/21/Cordialidad/Muy Bien/1.avi|muy bien
+Videos Courtesy/21/Cordialidad/Muy Bien/2.avi|muy bien
+Videos Courtesy/21/Cordialidad/Muy mal/0.avi|muy mal
+Videos Courtesy/21/Cordialidad/Muy mal/1.avi|muy mal
+Videos Courtesy/21/Cordialidad/Muy mal/2.avi|muy mal
+Videos Courtesy/21/Cordialidad/Necesitar/0.avi|buenas noches
+Videos Courtesy/21/Cordialidad/Necesitar/1.avi|si
+Videos Courtesy/21/Cordialidad/Necesitar/2.avi|no
+Videos Courtesy/21/Cordialidad/No/0.avi|muchas gracias
+Videos Courtesy/21/Cordialidad/No/1.avi|no
+Videos Courtesy/21/Cordialidad/No/2.avi|no
+Videos Courtesy/21/Cordialidad/Perdon/0.avi|perdon
+Videos Courtesy/21/Cordialidad/Perdon/1.avi|buenas tardes
+Videos Courtesy/21/Cordialidad/Perdon/2.avi|perdon
+Videos Courtesy/21/Cordialidad/Perfecto/0.avi|perfecto
+Videos Courtesy/21/Cordialidad/Perfecto/1.avi|perfecto
+Videos Courtesy/21/Cordialidad/Perfecto/2.avi|perfecto
+Videos Courtesy/21/Cordialidad/Permiso/0.avi|invitar
+Videos Courtesy/21/Cordialidad/Permiso/1.avi|invitar
+Videos Courtesy/21/Cordialidad/Permiso/2.avi|invitar
+Videos Courtesy/21/Cordialidad/Por favor/0.avi|rojo
+Videos Courtesy/21/Cordialidad/Por favor/1.avi|rojo
+Videos Courtesy/21/Cordialidad/Por favor/2.avi|con gusto
+Videos Courtesy/21/Cordialidad/Presentar/0.avi|presentar
+Videos Courtesy/21/Cordialidad/Presentar/1.avi|presentar
+Videos Courtesy/21/Cordialidad/Presentar/2.avi|presentar
+Videos Courtesy/21/Cordialidad/Sentarse/0.avi|sentarse
+Videos Courtesy/21/Cordialidad/Sentarse/1.avi|invitar
+Videos Courtesy/21/Cordialidad/Sentarse/2.avi|sentarse
+Videos Courtesy/21/Cordialidad/Si/0.avi|maso menos
+Videos Courtesy/21/Cordialidad/Si/1.avi|muy mal
+Videos Courtesy/21/Cordialidad/Si/2.avi|si
+Videos Courtesy/21/Cordialidad/Tranquilo/0.avi|esperar
+Videos Courtesy/21/Cordialidad/Tranquilo/1.avi|ayudar
+Videos Courtesy/21/Cordialidad/Tranquilo/2.avi|ayudar
+Videos Courtesy/22/Cordialidad/Apoyar/0.avi|apoyar
+Videos Courtesy/22/Cordialidad/Apoyar/1.avi|apoyar
+Videos Courtesy/22/Cordialidad/Apoyar/2.avi|muy bien
+Videos Courtesy/22/Cordialidad/Ayudar/0.avi|presentar
+Videos Courtesy/22/Cordialidad/Ayudar/1.avi|presentar
+Videos Courtesy/22/Cordialidad/Ayudar/2.avi|presentar
+Videos Courtesy/22/Cordialidad/Baño/0.avi|baño
+Videos Courtesy/22/Cordialidad/Baño/1.avi|baño
+Videos Courtesy/22/Cordialidad/Baño/2.avi|baño
+Videos Courtesy/22/Cordialidad/Bien/0.avi|bien
+Videos Courtesy/22/Cordialidad/Bien/1.avi|bien
+Videos Courtesy/22/Cordialidad/Bien/2.avi|bien
+Videos Courtesy/22/Cordialidad/Bienvenido/0.avi|como esta
+Videos Courtesy/22/Cordialidad/Bienvenido/1.avi|como esta
+Videos Courtesy/22/Cordialidad/Bienvenido/2.avi|bienvenido
+Videos Courtesy/22/Cordialidad/Buenas Noches/0.avi|buenas noches
+Videos Courtesy/22/Cordialidad/Buenas Noches/1.avi|buenas noches
+Videos Courtesy/22/Cordialidad/Buenas Noches/2.avi|invitar
+Videos Courtesy/22/Cordialidad/Buenas tardes/0.avi|perdon
+Videos Courtesy/22/Cordialidad/Buenas tardes/1.avi|buenas tardes
+Videos Courtesy/22/Cordialidad/Buenas tardes/2.avi|buenas tardes
+Videos Courtesy/22/Cordialidad/Buenos dias/0.avi|buenos dias
+Videos Courtesy/22/Cordialidad/Buenos dias/1.avi|buenos dias
+Videos Courtesy/22/Cordialidad/Buenos dias/2.avi|buenos dias
+Videos Courtesy/22/Cordialidad/Chao/0.avi|chao
+Videos Courtesy/22/Cordialidad/Chao/1.avi|chao
+Videos Courtesy/22/Cordialidad/Chao/2.avi|chao
+Videos Courtesy/22/Cordialidad/Como esta/0.avi|como esta
+Videos Courtesy/22/Cordialidad/Como esta/1.avi|como esta
+Videos Courtesy/22/Cordialidad/Como esta/2.avi|como esta
+Videos Courtesy/22/Cordialidad/Con gusto/0.avi|con gusto
+Videos Courtesy/22/Cordialidad/Con gusto/1.avi|con gusto
+Videos Courtesy/22/Cordialidad/Con gusto/2.avi|con gusto
+Videos Courtesy/22/Cordialidad/Denada/0.avi|invitar
+Videos Courtesy/22/Cordialidad/Denada/1.avi|invitar
+Videos Courtesy/22/Cordialidad/Denada/2.avi|denada
+Videos Courtesy/22/Cordialidad/Esperar/0.avi|esperar
+Videos Courtesy/22/Cordialidad/Esperar/1.avi|esperar
+Videos Courtesy/22/Cordialidad/Esperar/2.avi|esperar
+Videos Courtesy/22/Cordialidad/Excelente/0.avi|hola
+Videos Courtesy/22/Cordialidad/Excelente/1.avi|mal
+Videos Courtesy/22/Cordialidad/Excelente/2.avi|excelente
+Videos Courtesy/22/Cordialidad/Gracias/0.avi|muchas gracias
+Videos Courtesy/22/Cordialidad/Gracias/1.avi|muchas gracias
+Videos Courtesy/22/Cordialidad/Gracias/2.avi|muchas gracias
+Videos Courtesy/22/Cordialidad/Hola/0.avi|hola
+Videos Courtesy/22/Cordialidad/Hola/1.avi|hola
+Videos Courtesy/22/Cordialidad/Hola/2.avi|excelente
+Videos Courtesy/22/Cordialidad/Invitar/0.avi|invitar
+Videos Courtesy/22/Cordialidad/Invitar/1.avi|invitar
+Videos Courtesy/22/Cordialidad/Invitar/2.avi|invitar
+Videos Courtesy/22/Cordialidad/Lo siento/0.avi|lo siento
+Videos Courtesy/22/Cordialidad/Lo siento/1.avi|lo siento
+Videos Courtesy/22/Cordialidad/Lo siento/2.avi|lo siento
+Videos Courtesy/22/Cordialidad/Mal/0.avi|mal
+Videos Courtesy/22/Cordialidad/Mal/1.avi|excelente
+Videos Courtesy/22/Cordialidad/Mal/2.avi|mal
+Videos Courtesy/22/Cordialidad/Maso Menos/0.avi|baño
+Videos Courtesy/22/Cordialidad/Maso Menos/1.avi|con gusto
+Videos Courtesy/22/Cordialidad/Maso Menos/2.avi|maso menos
+Videos Courtesy/22/Cordialidad/Muchas Gracias/0.avi|muchas gracias
+Videos Courtesy/22/Cordialidad/Muchas Gracias/1.avi|muchas gracias
+Videos Courtesy/22/Cordialidad/Muchas Gracias/2.avi|muchas gracias
+Videos Courtesy/22/Cordialidad/Muy Bien/0.avi|muy bien
+Videos Courtesy/22/Cordialidad/Muy Bien/1.avi|muy bien
+Videos Courtesy/22/Cordialidad/Muy Bien/2.avi|muy bien
+Videos Courtesy/22/Cordialidad/Muy mal/0.avi|muy mal
+Videos Courtesy/22/Cordialidad/Muy mal/1.avi|muy mal
+Videos Courtesy/22/Cordialidad/Muy mal/2.avi|muy mal
+Videos Courtesy/22/Cordialidad/Necesitar/0.avi|necesitar
+Videos Courtesy/22/Cordialidad/Necesitar/1.avi|necesitar
+Videos Courtesy/22/Cordialidad/Necesitar/2.avi|necesitar
+Videos Courtesy/22/Cordialidad/No/0.avi|no
+Videos Courtesy/22/Cordialidad/No/1.avi|no
+Videos Courtesy/22/Cordialidad/No/2.avi|no
+Videos Courtesy/22/Cordialidad/Perdon/0.avi|perdon
+Videos Courtesy/22/Cordialidad/Perdon/1.avi|invitar
+Videos Courtesy/22/Cordialidad/Perdon/2.avi|perdon
+Videos Courtesy/22/Cordialidad/Perfecto/0.avi|perfecto
+Videos Courtesy/22/Cordialidad/Perfecto/1.avi|perfecto
+Videos Courtesy/22/Cordialidad/Perfecto/2.avi|perfecto
+Videos Courtesy/22/Cordialidad/Permiso/0.avi|invitar
+Videos Courtesy/22/Cordialidad/Permiso/1.avi|permiso
+Videos Courtesy/22/Cordialidad/Permiso/2.avi|invitar
+Videos Courtesy/22/Cordialidad/Por favor/0.avi|por favor
+Videos Courtesy/22/Cordialidad/Por favor/1.avi|lo siento
+Videos Courtesy/22/Cordialidad/Por favor/2.avi|por favor
+Videos Courtesy/22/Cordialidad/Presentar/0.avi|presentar
+Videos Courtesy/22/Cordialidad/Presentar/1.avi|presentar
+Videos Courtesy/22/Cordialidad/Presentar/2.avi|presentar
+Videos Courtesy/22/Cordialidad/Sentarse/0.avi|sentarse
+Videos Courtesy/22/Cordialidad/Sentarse/1.avi|sentarse
+Videos Courtesy/22/Cordialidad/Sentarse/2.avi|sentarse
+Videos Courtesy/22/Cordialidad/Si/0.avi|si
+Videos Courtesy/22/Cordialidad/Si/1.avi|si
+Videos Courtesy/22/Cordialidad/Si/2.avi|si
+Videos Courtesy/22/Cordialidad/Tranquilo/0.avi|muchas gracias
+Videos Courtesy/22/Cordialidad/Tranquilo/1.avi|invitar
+Videos Courtesy/22/Cordialidad/Tranquilo/2.avi|perdon
+Videos Courtesy/28/Cordialidad/Ayudar/0.avi|ayudar
+Videos Courtesy/28/Cordialidad/Ayudar/1.avi|ayudar
+Videos Courtesy/28/Cordialidad/Ayudar/2.avi|ayudar
+Videos Courtesy/28/Cordialidad/Bien/0.avi|bien
+Videos Courtesy/28/Cordialidad/Bien/1.avi|bien
+Videos Courtesy/28/Cordialidad/Bien/2.avi|bien
+Videos Courtesy/28/Cordialidad/Buenas Noches/0.avi|buenas noches
+Videos Courtesy/28/Cordialidad/Buenas Noches/1.avi|buenas noches
+Videos Courtesy/28/Cordialidad/Buenas Noches/2.avi|buenos dias
+Videos Courtesy/28/Cordialidad/Buenas tardes/0.avi|buenas tardes
+Videos Courtesy/28/Cordialidad/Buenas tardes/1.avi|buenas tardes
+Videos Courtesy/28/Cordialidad/Buenas tardes/2.avi|buenas tardes
+Videos Courtesy/28/Cordialidad/Buenos dias/0.avi|buenos dias
+Videos Courtesy/28/Cordialidad/Buenos dias/1.avi|buenos dias
+Videos Courtesy/28/Cordialidad/Buenos dias/2.avi|buenos dias
+Videos Courtesy/28/Cordialidad/Chao/0.avi|chao
+Videos Courtesy/28/Cordialidad/Chao/1.avi|chao
+Videos Courtesy/28/Cordialidad/Chao/2.avi|chao
+Videos Courtesy/28/Cordialidad/Denada/0.avi|denada
+Videos Courtesy/28/Cordialidad/Denada/1.avi|denada
+Videos Courtesy/28/Cordialidad/Denada/2.avi|perfecto
+Videos Courtesy/28/Cordialidad/Hola/0.avi|hola
+Videos Courtesy/28/Cordialidad/Hola/1.avi|chao
+Videos Courtesy/28/Cordialidad/Hola/2.avi|chao
+Videos Courtesy/28/Cordialidad/Mal/0.avi|mal
+Videos Courtesy/28/Cordialidad/Mal/1.avi|chao
+Videos Courtesy/28/Cordialidad/Mal/2.avi|chao
+Videos Courtesy/28/Cordialidad/Perdon/0.avi|perdon
+Videos Courtesy/28/Cordialidad/Perdon/1.avi|perdon
+Videos Courtesy/28/Cordialidad/Perdon/2.avi|perdon
+Videos Courtesy/28/Cordialidad/Por favor/0.avi|por favor
+Videos Courtesy/28/Cordialidad/Por favor/1.avi|por favor
+Videos Courtesy/28/Cordialidad/Por favor/2.avi|por favor
+Videos Courtesy/30/Cordialidad/Ayudar/0.avi|ayudar
+Videos Courtesy/30/Cordialidad/Ayudar/1.avi|ayudar
+Videos Courtesy/30/Cordialidad/Ayudar/2.avi|ayudar
+Videos Courtesy/30/Cordialidad/Bien/0.avi|bien
+Videos Courtesy/30/Cordialidad/Bien/1.avi|bien
+Videos Courtesy/30/Cordialidad/Bien/2.avi|bien
+Videos Courtesy/30/Cordialidad/Buenas Noches/0.avi|buenas noches
+Videos Courtesy/30/Cordialidad/Buenas Noches/1.avi|buenas noches
+Videos Courtesy/30/Cordialidad/Buenas Noches/2.avi|buenas noches
+Videos Courtesy/30/Cordialidad/Buenas tardes/0.avi|buenas tardes
+Videos Courtesy/30/Cordialidad/Buenas tardes/1.avi|buenas tardes
+Videos Courtesy/30/Cordialidad/Buenas tardes/2.avi|buenas tardes
+Videos Courtesy/30/Cordialidad/Buenos dias/0.avi|buenos dias
+Videos Courtesy/30/Cordialidad/Buenos dias/1.avi|buenos dias
+Videos Courtesy/30/Cordialidad/Buenos dias/2.avi|buenos dias
+Videos Courtesy/30/Cordialidad/Chao/0.avi|nueve
+Videos Courtesy/30/Cordialidad/Chao/1.avi|chao
+Videos Courtesy/30/Cordialidad/Chao/2.avi|nueve
+Videos Courtesy/30/Cordialidad/Denada/0.avi|denada
+Videos Courtesy/30/Cordialidad/Denada/1.avi|cinco
+Videos Courtesy/30/Cordialidad/Denada/2.avi|perdon
+Videos Courtesy/30/Cordialidad/Hola/0.avi|hola
+Videos Courtesy/30/Cordialidad/Hola/1.avi|hola
+Videos Courtesy/30/Cordialidad/Hola/2.avi|hola
+Videos Courtesy/30/Cordialidad/Mal/0.avi|mal
+Videos Courtesy/30/Cordialidad/Mal/1.avi|mal
+Videos Courtesy/30/Cordialidad/Mal/2.avi|mal
+Videos Courtesy/30/Cordialidad/Perdon/0.avi|perdon
+Videos Courtesy/30/Cordialidad/Perdon/1.avi|perdon
+Videos Courtesy/30/Cordialidad/Perdon/2.avi|perdon
+Videos Courtesy/30/Cordialidad/Por favor/0.avi|por favor
+Videos Courtesy/30/Cordialidad/Por favor/1.avi|por favor
+Videos Courtesy/30/Cordialidad/Por favor/2.avi|por favor
+Videos Courtesy/33/Cordialidad/Ayudar/0.avi|ayudar
+Videos Courtesy/33/Cordialidad/Ayudar/1.avi|ayudar
+Videos Courtesy/33/Cordialidad/Ayudar/2.avi|ayudar
+Videos Courtesy/33/Cordialidad/Bien/0.avi|bien
+Videos Courtesy/33/Cordialidad/Bien/1.avi|bien
+Videos Courtesy/33/Cordialidad/Bien/2.avi|bien
+Videos Courtesy/33/Cordialidad/Buenas Noches/0.avi|buenas noches
+Videos Courtesy/33/Cordialidad/Buenas Noches/1.avi|buenas noches
+Videos Courtesy/33/Cordialidad/Buenas Noches/2.avi|buenas noches
+Videos Courtesy/33/Cordialidad/Buenas tardes/0.avi|buenas tardes
+Videos Courtesy/33/Cordialidad/Buenas tardes/1.avi|ayudar
+Videos Courtesy/33/Cordialidad/Buenas tardes/2.avi|buenas tardes
+Videos Courtesy/33/Cordialidad/Buenos dias/0.avi|buenos dias
+Videos Courtesy/33/Cordialidad/Buenos dias/1.avi|buenos dias
+Videos Courtesy/33/Cordialidad/Buenos dias/2.avi|buenos dias
+Videos Courtesy/33/Cordialidad/Chao/0.avi|chao
+Videos Courtesy/33/Cordialidad/Chao/1.avi|maso menos
+Videos Courtesy/33/Cordialidad/Chao/2.avi|chao
+Videos Courtesy/33/Cordialidad/Denada/0.avi|denada
+Videos Courtesy/33/Cordialidad/Denada/1.avi|denada
+Videos Courtesy/33/Cordialidad/Denada/2.avi|denada
+Videos Courtesy/33/Cordialidad/Hola/0.avi|chao
+Videos Courtesy/33/Cordialidad/Hola/1.avi|hola
+Videos Courtesy/33/Cordialidad/Hola/2.avi|hola
+Videos Courtesy/33/Cordialidad/Mal/0.avi|mal
+Videos Courtesy/33/Cordialidad/Mal/1.avi|mal
+Videos Courtesy/33/Cordialidad/Mal/2.avi|dies
+Videos Courtesy/33/Cordialidad/Perdon/0.avi|perdon
+Videos Courtesy/33/Cordialidad/Perdon/1.avi|perdon
+Videos Courtesy/33/Cordialidad/Perdon/2.avi|perdon
+Videos Courtesy/33/Cordialidad/Por favor/0.avi|por favor
+Videos Courtesy/33/Cordialidad/Por favor/1.avi|por favor
+Videos Courtesy/33/Cordialidad/Por favor/2.avi|por favor
+Videos Numbers/21/Numeros/cinco/0.avi|amarillo
+Videos Numbers/21/Numeros/cinco/1.avi|buenos dias
+Videos Numbers/21/Numeros/cinco/2.avi|amarillo
+Videos Numbers/21/Numeros/cuatro/0.avi|amarillo
+Videos Numbers/21/Numeros/cuatro/1.avi|cafe
+Videos Numbers/21/Numeros/cuatro/2.avi|amarillo
+Videos Numbers/21/Numeros/dies/0.avi|muy mal
+Videos Numbers/21/Numeros/dies/1.avi|muy bien
+Videos Numbers/21/Numeros/dies/2.avi|muy mal
+Videos Numbers/21/Numeros/dies/3.avi|con gusto
+Videos Numbers/21/Numeros/dos/0.avi|verde
+Videos Numbers/21/Numeros/dos/1.avi|verde
+Videos Numbers/21/Numeros/dos/2.avi|verde
+Videos Numbers/21/Numeros/nueve/0.avi|cafe
+Videos Numbers/21/Numeros/nueve/1.avi|chao
+Videos Numbers/21/Numeros/nueve/2.avi|chao
+Videos Numbers/21/Numeros/ocho/0.avi|maso menos
+Videos Numbers/21/Numeros/ocho/1.avi|chao
+Videos Numbers/21/Numeros/ocho/2.avi|perfecto
+Videos Numbers/21/Numeros/seis/0.avi|chao
+Videos Numbers/21/Numeros/seis/1.avi|verde
+Videos Numbers/21/Numeros/seis/2.avi|verde
+Videos Numbers/21/Numeros/siete/0.avi|buenos dias
+Videos Numbers/21/Numeros/siete/1.avi|buenos dias
+Videos Numbers/21/Numeros/siete/2.avi|verde
+Videos Numbers/21/Numeros/tres/0.avi|denada
+Videos Numbers/21/Numeros/tres/1.avi|verde
+Videos Numbers/21/Numeros/tres/2.avi|verde
+Videos Numbers/21/Numeros/uno/0.avi|permiso
+Videos Numbers/21/Numeros/uno/1.avi|verde
+Videos Numbers/21/Numeros/uno/2.avi|verde
+Videos Numbers/22/Numeros/cinco/0.avi|nueve
+Videos Numbers/22/Numeros/cinco/1.avi|chao
+Videos Numbers/22/Numeros/cinco/2.avi|nueve
+Videos Numbers/22/Numeros/cuatro/0.avi|nueve
+Videos Numbers/22/Numeros/cuatro/1.avi|baño
+Videos Numbers/22/Numeros/cuatro/2.avi|nueve
+Videos Numbers/22/Numeros/dies/0.avi|dies
+Videos Numbers/22/Numeros/dies/1.avi|dies
+Videos Numbers/22/Numeros/dies/2.avi|bien
+Videos Numbers/22/Numeros/dos/0.avi|siete
+Videos Numbers/22/Numeros/dos/1.avi|siete
+Videos Numbers/22/Numeros/dos/2.avi|siete
+Videos Numbers/22/Numeros/nueve/0.avi|nueve
+Videos Numbers/22/Numeros/nueve/1.avi|hola
+Videos Numbers/22/Numeros/nueve/2.avi|nueve
+Videos Numbers/22/Numeros/ocho/0.avi|ocho
+Videos Numbers/22/Numeros/ocho/1.avi|ocho
+Videos Numbers/22/Numeros/ocho/2.avi|baño
+Videos Numbers/22/Numeros/seis/0.avi|no
+Videos Numbers/22/Numeros/seis/1.avi|seis
+Videos Numbers/22/Numeros/seis/2.avi|uno
+Videos Numbers/22/Numeros/siete/0.avi|baño
+Videos Numbers/22/Numeros/siete/1.avi|uno
+Videos Numbers/22/Numeros/siete/2.avi|uno
+Videos Numbers/22/Numeros/tres/0.avi|excelente
+Videos Numbers/22/Numeros/tres/1.avi|ocho
+Videos Numbers/22/Numeros/tres/2.avi|ocho
+Videos Numbers/22/Numeros/uno/0.avi|uno
+Videos Numbers/22/Numeros/uno/1.avi|uno
+Videos Numbers/22/Numeros/uno/2.avi|seis
+Videos Numbers/28/Numeros/cinco/0.avi|chao
+Videos Numbers/28/Numeros/cinco/1.avi|chao
+Videos Numbers/28/Numeros/cinco/2.avi|chao
+Videos Numbers/28/Numeros/cuatro/0.avi|cuatro
+Videos Numbers/28/Numeros/cuatro/1.avi|tres
+Videos Numbers/28/Numeros/cuatro/2.avi|chao
+Videos Numbers/28/Numeros/dies/0.avi|bien
+Videos Numbers/28/Numeros/dies/1.avi|uno
+Videos Numbers/28/Numeros/dies/2.avi|muy bien
+Videos Numbers/28/Numeros/dos/0.avi|dos
+Videos Numbers/28/Numeros/dos/1.avi|verde
+Videos Numbers/28/Numeros/dos/2.avi|verde
+Videos Numbers/28/Numeros/nueve/0.avi|nueve
+Videos Numbers/28/Numeros/nueve/1.avi|chao
+Videos Numbers/28/Numeros/nueve/2.avi|chao
+Videos Numbers/28/Numeros/ocho/0.avi|chao
+Videos Numbers/28/Numeros/ocho/1.avi|gris
+Videos Numbers/28/Numeros/ocho/2.avi|dies
+Videos Numbers/28/Numeros/seis/0.avi|uno
+Videos Numbers/28/Numeros/seis/1.avi|uno
+Videos Numbers/28/Numeros/seis/2.avi|verde
+Videos Numbers/28/Numeros/siete/0.avi|chao
+Videos Numbers/28/Numeros/siete/1.avi|verde
+Videos Numbers/28/Numeros/siete/2.avi|verde
+Videos Numbers/28/Numeros/tres/0.avi|tres
+Videos Numbers/28/Numeros/tres/1.avi|tres
+Videos Numbers/28/Numeros/tres/2.avi|chao
+Videos Numbers/28/Numeros/uno/0.avi|uno
+Videos Numbers/28/Numeros/uno/1.avi|verde
+Videos Numbers/28/Numeros/uno/2.avi|uno
+Videos Numbers/30/Numeros/cinco/0.avi|cinco
+Videos Numbers/30/Numeros/cinco/1.avi|chao
+Videos Numbers/30/Numeros/cinco/2.avi|mal
+Videos Numbers/30/Numeros/cuatro/0.avi|chao
+Videos Numbers/30/Numeros/cuatro/1.avi|tres
+Videos Numbers/30/Numeros/cuatro/2.avi|cuatro
+Videos Numbers/30/Numeros/dies/0.avi|dies
+Videos Numbers/30/Numeros/dies/1.avi|dies
+Videos Numbers/30/Numeros/dies/2.avi|dies
+Videos Numbers/30/Numeros/dos/0.avi|con gusto
+Videos Numbers/30/Numeros/dos/1.avi|dos
+Videos Numbers/30/Numeros/dos/2.avi|con gusto
+Videos Numbers/30/Numeros/nueve/0.avi|nueve
+Videos Numbers/30/Numeros/nueve/1.avi|nueve
+Videos Numbers/30/Numeros/nueve/2.avi|nueve
+Videos Numbers/30/Numeros/ocho/0.avi|nueve
+Videos Numbers/30/Numeros/ocho/1.avi|con gusto
+Videos Numbers/30/Numeros/ocho/2.avi|ocho
+Videos Numbers/30/Numeros/seis/0.avi|hola
+Videos Numbers/30/Numeros/seis/1.avi|seis
+Videos Numbers/30/Numeros/seis/2.avi|seis
+Videos Numbers/30/Numeros/siete/0.avi|seis
+Videos Numbers/30/Numeros/siete/1.avi|chao
+Videos Numbers/30/Numeros/siete/2.avi|hola
+Videos Numbers/30/Numeros/tres/0.avi|cuatro
+Videos Numbers/30/Numeros/tres/1.avi|tres
+Videos Numbers/30/Numeros/tres/2.avi|tres
+Videos Numbers/30/Numeros/uno/0.avi|excelente
+Videos Numbers/30/Numeros/uno/1.avi|uno
+Videos Numbers/30/Numeros/uno/2.avi|chao
+Videos Numbers/33/Numeros/cinco/0.avi|cinco
+Videos Numbers/33/Numeros/cinco/1.avi|chao
+Videos Numbers/33/Numeros/cinco/2.avi|chao
+Videos Numbers/33/Numeros/cuatro/0.avi|cuatro
+Videos Numbers/33/Numeros/cuatro/1.avi|cuatro
+Videos Numbers/33/Numeros/cuatro/2.avi|cuatro
+Videos Numbers/33/Numeros/dies/0.avi|dies
+Videos Numbers/33/Numeros/dies/1.avi|dies
+Videos Numbers/33/Numeros/dies/2.avi|dies
+Videos Numbers/33/Numeros/dos/0.avi|siete
+Videos Numbers/33/Numeros/dos/1.avi|dos
+Videos Numbers/33/Numeros/dos/2.avi|tres
+Videos Numbers/33/Numeros/nueve/0.avi|chao
+Videos Numbers/33/Numeros/nueve/1.avi|cuatro
+Videos Numbers/33/Numeros/nueve/2.avi|cuatro
+Videos Numbers/33/Numeros/ocho/0.avi|ocho
+Videos Numbers/33/Numeros/ocho/1.avi|denada
+Videos Numbers/33/Numeros/ocho/2.avi|tres
+Videos Numbers/33/Numeros/seis/0.avi|rosado
+Videos Numbers/33/Numeros/seis/1.avi|seis
+Videos Numbers/33/Numeros/seis/2.avi|uno
+Videos Numbers/33/Numeros/siete/0.avi|dos
+Videos Numbers/33/Numeros/siete/1.avi|dos
+Videos Numbers/33/Numeros/siete/2.avi|dos
+Videos Numbers/33/Numeros/tres/0.avi|tres
+Videos Numbers/33/Numeros/tres/1.avi|tres
+Videos Numbers/33/Numeros/tres/2.avi|tres
+Videos Numbers/33/Numeros/uno/0.avi|uno
+Videos Numbers/33/Numeros/uno/1.avi|uno
+Videos Numbers/33/Numeros/uno/2.avi|seis

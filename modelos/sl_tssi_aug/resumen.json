@@ -1,0 +1,338 @@
+{
+  "exactitud": 0.8714788732394366,
+  "margen_95": 0.027523115796376053,
+  "f1_macro": 0.8516420734654695,
+  "recall_macro": 0.8583122895622896,
+  "precision_macro": 0.8568151120847199,
+  "por_categoria": {
+    "Colores": 0.9666666666666667,
+    "Cortesía": 0.8249158249158249,
+    "Números": 0.8874172185430463
+  },
+  "por_clase": {
+    "Apoyar": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "soporte": 6
+    },
+    "Ayudar": {
+      "precision": 0.8666666666666667,
+      "recall": 0.8666666666666667,
+      "f1": 0.8666666666666667,
+      "soporte": 15
+    },
+    "Baño": {
+      "precision": 0.8333333333333334,
+      "recall": 0.8333333333333334,
+      "f1": 0.8333333333333334,
+      "soporte": 6
+    },
+    "Bien": {
+      "precision": 1.0,
+      "recall": 0.8666666666666667,
+      "f1": 0.9285714285714286,
+      "soporte": 15
+    },
+    "Bienvenido": {
+      "precision": 1.0,
+      "recall": 0.8333333333333334,
+      "f1": 0.9090909090909091,
+      "soporte": 6
+    },
+    "Buenas Noches": {
+      "precision": 1.0,
+      "recall": 0.8666666666666667,
+      "f1": 0.9285714285714286,
+      "soporte": 15
+    },
+    "Buenas tardes": {
+      "precision": 0.8235294117647058,
+      "recall": 0.9333333333333333,
+      "f1": 0.8749999999999999,
+      "soporte": 15
+    },
+    "Buenos dias": {
+      "precision": 0.9375,
+      "recall": 1.0,
+      "f1": 0.967741935483871,
+      "soporte": 15
+    },
+    "Chao": {
+      "precision": 1.0,
+      "recall": 0.9333333333333333,
+      "f1": 0.9655172413793104,
+      "soporte": 15
+    },
+    "Como esta": {
+      "precision": 0.625,
+      "recall": 0.8333333333333334,
+      "f1": 0.7142857142857143,
+      "soporte": 6
+    },
+    "Con gusto": {
+      "precision": 1.0,
+      "recall": 0.8333333333333334,
+      "f1": 0.9090909090909091,
+      "soporte": 6
+    },
+    "Denada": {
+      "precision": 1.0,
+      "recall": 0.7333333333333333,
+      "f1": 0.846153846153846,
+      "soporte": 15
+    },
+    "Esperar": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "soporte": 6
+    },
+    "Excelente": {
+      "precision": 0.6666666666666666,
+      "recall": 0.6666666666666666,
+      "f1": 0.6666666666666666,
+      "soporte": 6
+    },
+    "Gracias": {
+      "precision": 0.75,
+      "recall": 0.5,
+      "f1": 0.6,
+      "soporte": 6
+    },
+    "Hola": {
+      "precision": 0.7692307692307693,
+      "recall": 0.6666666666666666,
+      "f1": 0.7142857142857142,
+      "soporte": 15
+    },
+    "Invitar": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "soporte": 6
+    },
+    "Lo siento": {
+      "precision": 0.75,
+      "recall": 1.0,
+      "f1": 0.8571428571428571,
+      "soporte": 6
+    },
+    "Mal": {
+      "precision": 0.8461538461538461,
+      "recall": 0.7333333333333333,
+      "f1": 0.7857142857142856,
+      "soporte": 15
+    },
+    "Maso Menos": {
+      "precision": 0.8333333333333334,
+      "recall": 0.8333333333333334,
+      "f1": 0.8333333333333334,
+      "soporte": 6
+    },
+    "Muchas Gracias": {
+      "precision": 0.8,
+      "recall": 0.6666666666666666,
+      "f1": 0.7272727272727272,
+      "soporte": 6
+    },
+    "Muy Bien": {
+      "precision": 0.8333333333333334,
+      "recall": 0.8333333333333334,
+      "f1": 0.8333333333333334,
+      "soporte": 6
+    },
+    "Muy mal": {
+      "precision": 0.8571428571428571,
+      "recall": 1.0,
+      "f1": 0.923076923076923,
+      "soporte": 6
+    },
+    "Necesitar": {
+      "precision": 0.5,
+      "recall": 0.6666666666666666,
+      "f1": 0.5714285714285715,
+      "soporte": 6
+    },
+    "No": {
+      "precision": 0.4,
+      "recall": 0.3333333333333333,
+      "f1": 0.3636363636363636,
+      "soporte": 6
+    },
+    "Perdon": {
+      "precision": 0.7,
+      "recall": 0.9333333333333333,
+      "f1": 0.8,
+      "soporte": 15
+    },
+    "Perfecto": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "soporte": 6
+    },
+    "Permiso": {
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1": 0.8,
+      "soporte": 6
+    },
+    "Por favor": {
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1": 0.888888888888889,
+      "soporte": 15
+    },
+    "Presentar": {
+      "precision": 0.75,
+      "recall": 1.0,
+      "f1": 0.8571428571428571,
+      "soporte": 6
+    },
+    "Sentarse": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "soporte": 6
+    },
+    "Si": {
+      "precision": 0.4,
+      "recall": 0.3333333333333333,
+      "f1": 0.3636363636363636,
+      "soporte": 6
+    },
+    "Tranquilo": {
+      "precision": 0.5,
+      "recall": 0.3333333333333333,
+      "f1": 0.4,
+      "soporte": 6
+    },
+    "amarillo": {
+      "precision": 1.0,
+      "recall": 0.9090909090909091,
+      "f1": 0.9523809523809523,
+      "soporte": 11
+    },
+    "azul": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "soporte": 11
+    },
+    "blanco": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "soporte": 10
+    },
+    "cafe": {
+      "precision": 0.8461538461538461,
+      "recall": 1.0,
+      "f1": 0.9166666666666666,
+      "soporte": 11
+    },
+    "cinco": {
+      "precision": 0.8823529411764706,
+      "recall": 1.0,
+      "f1": 0.9375,
+      "soporte": 15
+    },
+    "cuatro": {
+      "precision": 0.9333333333333333,
+      "recall": 0.9333333333333333,
+      "f1": 0.9333333333333333,
+      "soporte": 15
+    },
+    "dies": {
+      "precision": 0.8666666666666667,
+      "recall": 0.8125,
+      "f1": 0.8387096774193549,
+      "soporte": 16
+    },
+    "dos": {
+      "precision": 0.9375,
+      "recall": 1.0,
+      "f1": 0.967741935483871,
+      "soporte": 15
+    },
+    "gris": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "soporte": 11
+    },
+    "morado": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "soporte": 11
+    },
+    "naranja": {
+      "precision": 0.8333333333333334,
+      "recall": 0.9090909090909091,
+      "f1": 0.8695652173913043,
+      "soporte": 11
+    },
+    "negro": {
+      "precision": 0.6428571428571429,
+      "recall": 0.8181818181818182,
+      "f1": 0.7200000000000001,
+      "soporte": 11
+    },
+    "nueve": {
+      "precision": 0.8571428571428571,
+      "recall": 0.8,
+      "f1": 0.8275862068965518,
+      "soporte": 15
+    },
+    "ocho": {
+      "precision": 0.875,
+      "recall": 0.9333333333333333,
+      "f1": 0.9032258064516129,
+      "soporte": 15
+    },
+    "rojo": {
+      "precision": 0.9166666666666666,
+      "recall": 1.0,
+      "f1": 0.9565217391304348,
+      "soporte": 11
+    },
+    "rosado": {
+      "precision": 0.7857142857142857,
+      "recall": 1.0,
+      "f1": 0.88,
+      "soporte": 11
+    },
+    "seis": {
+      "precision": 0.9375,
+      "recall": 1.0,
+      "f1": 0.967741935483871,
+      "soporte": 15
+    },
+    "siete": {
+      "precision": 0.9285714285714286,
+      "recall": 0.8666666666666667,
+      "f1": 0.896551724137931,
+      "soporte": 15
+    },
+    "tres": {
+      "precision": 1.0,
+      "recall": 0.7333333333333333,
+      "f1": 0.846153846153846,
+      "soporte": 15
+    },
+    "uno": {
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1": 0.888888888888889,
+      "soporte": 15
+    },
+    "verde": {
+      "precision": 0.9166666666666666,
+      "recall": 1.0,
+      "f1": 0.9565217391304348,
+      "soporte": 11
+    }
+  }
+}

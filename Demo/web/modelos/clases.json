@@ -1,0 +1,276 @@
+{
+ "modelo": "SL-TSSI-DenseNet-121 con aumento de datos",
+ "exactitud_validacion": 0.9275,
+ "clases": [
+  {
+   "id": "Apoyar",
+   "etiqueta": "Apoyar",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Ayudar",
+   "etiqueta": "Ayudar",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Baño",
+   "etiqueta": "Baño",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Bien",
+   "etiqueta": "Bien",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Bienvenido",
+   "etiqueta": "Bienvenido",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Buenas Noches",
+   "etiqueta": "Buenas noches",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Buenas tardes",
+   "etiqueta": "Buenas tardes",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Buenos dias",
+   "etiqueta": "Buenos días",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Chao",
+   "etiqueta": "Chao",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Como esta",
+   "etiqueta": "¿Cómo está?",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Con gusto",
+   "etiqueta": "Con gusto",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Denada",
+   "etiqueta": "De nada",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Esperar",
+   "etiqueta": "Esperar",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Excelente",
+   "etiqueta": "Excelente",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Gracias",
+   "etiqueta": "Gracias",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Hola",
+   "etiqueta": "Hola",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Invitar",
+   "etiqueta": "Invitar",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Lo siento",
+   "etiqueta": "Lo siento",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Mal",
+   "etiqueta": "Mal",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Maso Menos",
+   "etiqueta": "Más o menos",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Muchas Gracias",
+   "etiqueta": "Muchas gracias",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Muy Bien",
+   "etiqueta": "Muy bien",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Muy mal",
+   "etiqueta": "Muy mal",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Necesitar",
+   "etiqueta": "Necesitar",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "No",
+   "etiqueta": "No",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Perdon",
+   "etiqueta": "Perdón",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Perfecto",
+   "etiqueta": "Perfecto",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Permiso",
+   "etiqueta": "Permiso",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Por favor",
+   "etiqueta": "Por favor",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Presentar",
+   "etiqueta": "Presentar",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Sentarse",
+   "etiqueta": "Sentarse",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Si",
+   "etiqueta": "Sí",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "Tranquilo",
+   "etiqueta": "Tranquilo",
+   "categoria": "Cortesía"
+  },
+  {
+   "id": "amarillo",
+   "etiqueta": "Amarillo",
+   "categoria": "Colores"
+  },
+  {
+   "id": "azul",
+   "etiqueta": "Azul",
+   "categoria": "Colores"
+  },
+  {
+   "id": "blanco",
+   "etiqueta": "Blanco",
+   "categoria": "Colores"
+  },
+  {
+   "id": "cafe",
+   "etiqueta": "Café",
+   "categoria": "Colores"
+  },
+  {
+   "id": "cinco",
+   "etiqueta": "Cinco",
+   "categoria": "Números"
+  },
+  {
+   "id": "cuatro",
+   "etiqueta": "Cuatro",
+   "categoria": "Números"
+  },
+  {
+   "id": "dies",
+   "etiqueta": "Diez",
+   "categoria": "Números"
+  },
+  {
+   "id": "dos",
+   "etiqueta": "Dos",
+   "categoria": "Números"
+  },
+  {
+   "id": "gris",
+   "etiqueta": "Gris",
+   "categoria": "Colores"
+  },
+  {
+   "id": "morado",
+   "etiqueta": "Morado",
+   "categoria": "Colores"
+  },
+  {
+   "id": "naranja",
+   "etiqueta": "Naranja",
+   "categoria": "Colores"
+  },
+  {
+   "id": "negro",
+   "etiqueta": "Negro",
+   "categoria": "Colores"
+  },
+  {
+   "id": "nueve",
+   "etiqueta": "Nueve",
+   "categoria": "Números"
+  },
+  {
+   "id": "ocho",
+   "etiqueta": "Ocho",
+   "categoria": "Números"
+  },
+  {
+   "id": "rojo",
+   "etiqueta": "Rojo",
+   "categoria": "Colores"
+  },
+  {
+   "id": "rosado",
+   "etiqueta": "Rosado",
+   "categoria": "Colores"
+  },
+  {
+   "id": "seis",
+   "etiqueta": "Seis",
+   "categoria": "Números"
+  },
+  {
+   "id": "siete",
+   "etiqueta": "Siete",
+   "categoria": "Números"
+  },
+  {
+   "id": "tres",
+   "etiqueta": "Tres",
+   "categoria": "Números"
+  },
+  {
+   "id": "uno",
+   "etiqueta": "Uno",
+   "categoria": "Números"
+  },
+  {
+   "id": "verde",
+   "etiqueta": "Verde",
+   "categoria": "Colores"
+  }
+ ]
+}

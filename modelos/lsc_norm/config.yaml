@@ -1,0 +1,94 @@
+name: lsc_norm
+data:
+  data_path: ./dataset_completo/
+  version: phoenix_2014_trans
+  sgn: sign
+  txt: text
+  gls: gloss
+  train: lsc_norm.train
+  dev: lsc_norm.dev
+  test: lsc_norm.test
+  feature_size: 225
+  level: word
+  txt_lowercase: true
+  max_sent_length: 400
+  random_train_subset: -1
+  random_dev_subset: -1
+testing:
+  recognition_beam_sizes:
+  - 1
+  translation_beam_sizes:
+  - 1
+  translation_beam_alphas:
+  - -1
+training:
+  reset_best_ckpt: false
+  reset_scheduler: false
+  reset_optimizer: false
+  random_seed: 42
+  model_dir: modelos/lsc_norm
+  recognition_loss_weight: 1.0
+  translation_loss_weight: 1.0
+  eval_metric: wer
+  optimizer: adam
+  learning_rate: 0.0003
+  batch_size: 32
+  num_valid_log: 5
+  epochs: 100
+  early_stopping_metric: eval_metric
+  batch_type: sentence
+  translation_normalization: batch
+  eval_recognition_beam_size: 1
+  eval_translation_beam_size: 1
+  eval_translation_beam_alpha: -1
+  overwrite: false
+  shuffle: true
+  use_cuda: false
+  translation_max_output_length: 30
+  keep_last_ckpts: 1
+  batch_multiplier: 1
+  logging_freq: 20
+  validation_freq: 50
+  betas:
+  - 0.9
+  - 0.998
+  scheduling: plateau
+  learning_rate_min: 1.0e-06
+  weight_decay: 0.001
+  patience: 1000
+  decrease_factor: 0.5
+  label_smoothing: 0.0
+  eval_batch_size: 32
+model:
+  initializer: xavier
+  bias_initializer: zeros
+  init_gain: 1.0
+  embed_initializer: xavier
+  embed_init_gain: 1.0
+  tied_softmax: false
+  encoder:
+    type: transformer
+    num_layers: 3
+    num_heads: 8
+    embeddings:
+      embedding_dim: 512
+      scale: false
+      dropout: 0.1
+      norm_type: batch
+      activation_type: softsign
+    hidden_size: 512
+    ff_size: 2048
+    dropout: 0.1
+  decoder:
+    type: transformer
+    num_layers: 3
+    num_heads: 8
+    embeddings:
+      embedding_dim: 512
+      scale: false
+      dropout: 0.1
+      norm_type: batch
+      activation_type: softsign
+    hidden_size: 512
+    ff_size: 2048
+    dropout: 0.1

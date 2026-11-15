@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Señas en vivo · Lengua de Señas Colombiana</title>
+  <meta name="description" content="Reconoce 54 señas de la Lengua de Señas Colombiana con tu cámara, en tiempo real y sin salir del navegador.">
+  <meta name="theme-color" content="#0a0c11">
+  <link rel="icon" href="icono.svg" type="image/svg+xml">
+  <link rel="preload" href="fuentes/bricolage-grotesque.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fuentes/instrument-sans.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+  <div class="fondo" aria-hidden="true"></div>
+
+  <header class="cabecera">
+    <div class="marca">
+      <svg class="marca-icono" viewBox="0 0 40 40" aria-hidden="true">
+        <g fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round">
+          <path d="M20 34 13 22 10 12M20 34l-3-14-1-11M20 34l1-15 1-12M20 34l5-13 3-9M20 34l9-8 4-5"/>
+        </g>
+        <g fill="currentColor">
+          <circle cx="20" cy="34" r="3"/><circle cx="10" cy="12" r="2.3"/><circle cx="16" cy="9" r="2.3"/>
+          <circle cx="22" cy="7" r="2.3"/><circle cx="28" cy="12" r="2.3"/><circle cx="33" cy="21" r="2.3"/>
+        </g>
+      </svg>
+      <div class="marca-texto">
+        <strong>Señas en vivo</strong>
+        <span>Lengua de Señas Colombiana</span>
+      </div>
+    </div>
+    <nav class="cabecera-acciones">
+      <span class="dato" id="dato-rendimiento" hidden></span>
+      <button class="boton-suave" id="btn-como" type="button">Cómo funciona</button>
+    </nav>
+  </header>
+
+  <main class="tablero">
+    <section class="columna-camara">
+      <div class="marco">
+        <div class="escenario" id="escenario" data-estado="inicio">
+          <video id="video" playsinline muted></video>
+          <canvas id="lienzo"></canvas>
+          <div class="velo" aria-hidden="true"></div>
+
+          <div class="estado" id="estado" role="status">
+            <span class="estado-luz" aria-hidden="true"></span>
+            <span id="estado-texto">Esperando una seña</span>
+          </div>
+
+          <div class="herramientas">
+            <button class="boton-icono" id="btn-esqueleto" type="button" aria-pressed="true" title="Mostrar u ocultar el esqueleto">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M12 8v7M6 10l6-1 6 1M12 15l-4 6M12 15l4 6"/></g><circle cx="12" cy="5" r="2.2" fill="currentColor"/></svg>
+              <span class="solo-lector">Esqueleto</span>
+            </button>
+          </div>
+
+          <p class="pista" id="pista" role="status" hidden></p>
+
+          <div class="subtitulo" id="subtitulo" aria-live="polite" hidden>
+            <p class="subtitulo-palabra" id="subtitulo-palabra"></p>
+            <p class="subtitulo-detalle" id="subtitulo-detalle"></p>
+          </div>
+
+          <div class="bienvenida" id="bienvenida">
+            <div class="bienvenida-texto">
+              <h1>Reconocimiento de señas <em>con la cámara</em></h1>
+              <p class="entrada">Reconoce 54 señas sueltas de la Lengua de Señas Colombiana: colores, números y expresiones de cortesía.</p>
+              <ol class="pasos">
+                <li><span>1</span>Ponte frente a la cámara, de modo que se vea de la cintura hacia arriba.</li>
+                <li><span>2</span>Haz una seña de la lista.</li>
+                <li><span>3</span>Baja las manos y quédate quieto un momento. El resultado sale sin tocar nada.</li>
+              </ol>
+              <div class="bienvenida-accion">
+                <button class="boton-principal" id="btn-iniciar" type="button">
+                  <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M4 7.5A2.5 2.5 0 0 1 6.5 5h7A2.5 2.5 0 0 1 16 7.5v1.6l3.3-2.2a1 1 0 0 1 1.7.8v8.6a1 1 0 0 1-1.7.8L16 14.9v1.6a2.500 2.500 0 0 1-2.5 2.5h-7A2.500 2.500 0 0 1 4 16.500z"/></svg>
+                  Activar cámara
+                </button>
+                <div class="carga" id="carga">
+                  <div class="carga-barra"><i id="carga-avance"></i></div>
+                  <span id="carga-texto">Descargando modelos…</span>
+                </div>
+              </div>
+              <p class="privacidad">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M12 3 5 6v5c0 4.500 3 8 7 10 4-2 7-5.500 7-10V6zM9 12l2 2 4-4"/></svg>
+                El video se procesa en este dispositivo. No se envía ni se guarda.
+              </p>
+              <p class="aviso-error" id="aviso-error" role="alert" hidden></p>
+            </div>
+            <svg class="bienvenida-mano" id="mano" viewBox="0 0 200 220" aria-hidden="true">
+              <g class="mano-huesos" fill="none" stroke-linecap="round" stroke-width="3">
+                <path d="M100 196 66 170 46 142 34 116 26 94"/>
+                <path d="M100 196 80 116 74 78 71 52 69 30"/>
+                <path d="M80 116 100 110 100 68 100 40 100 16"/>
+                <path d="M100 110 119 115 126 80 129 56 131 36"/>
+                <path d="M119 115 135 128 147 100 153 80 158 62"/>
+                <path d="M100 196 135 128"/>
+              </g>
+              <g class="mano-puntos">
+                <circle cx="100" cy="196" r="6"/>
+                <circle cx="66" cy="170" r="4.500"/><circle cx="46" cy="142" r="4.500"/><circle cx="34" cy="116" r="4.500"/><circle cx="26" cy="94" r="4.500"/>
+                <circle cx="80" cy="116" r="4.500"/><circle cx="74" cy="78" r="4.500"/><circle cx="71" cy="52" r="4.500"/><circle cx="69" cy="30" r="4.500"/>
+                <circle cx="100" cy="110" r="4.500"/><circle cx="100" cy="68" r="4.500"/><circle cx="100" cy="40" r="4.500"/><circle cx="100" cy="16" r="4.500"/>
+                <circle cx="119" cy="115" r="4.500"/><circle cx="126" cy="80" r="4.500"/><circle cx="129" cy="56" r="4.500"/><circle cx="131" cy="36" r="4.500"/>
+                <circle cx="135" cy="128" r="4.500"/><circle cx="147" cy="100" r="4.500"/><circle cx="153" cy="80" r="4.500"/><circle cx="158" cy="62" r="4.500"/>
+              </g>
+            </svg>
+          </div>
+
+          <pre class="depuracion" id="depuracion" hidden></pre>
+        </div>
+      </div>
+
+      <section class="tarjeta frase" aria-labelledby="frase-titulo">
+        <header class="tarjeta-cabecera">
+          <h2 class="etiqueta" id="frase-titulo">Señas reconocidas</h2>
+          <div class="frase-acciones">
+            <button class="boton-chip" id="btn-voz" type="button" aria-pressed="false" title="Leer cada seña en voz alta">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M4 10v4h3l5 4V6L7 10zM16 9a4 4 0 0 1 0 6M18.500 6.500a8 8 0 0 1 0 11"/></svg>
+              Voz
+            </button>
+            <button class="boton-chip" id="btn-borrar" type="button" disabled>Borrar</button>
+          </div>
+        </header>
+        <ol class="frase-lista" id="frase-lista"></ol>
+        <p class="vacio" id="frase-vacia">Aquí se van anotando las señas en el orden en que se reconocen.</p>
+      </section>
+    </section>
+
+    <aside class="columna-datos">
+      <section class="tarjeta resultado" id="resultado" data-vacio="true" aria-labelledby="resultado-titulo">
+        <h2 class="etiqueta" id="resultado-titulo">Última seña</h2>
+
+        <div class="resultado-vacio">
+          <p>Sin resultados todavía</p>
+          <p class="vacio">Aquí aparecen la seña detectada, la confianza del modelo y las otras dos opciones que consideró.</p>
+        </div>
+
+        <div class="resultado-contenido">
+          <div class="resultado-principal">
+            <p class="resultado-palabra" id="res-palabra"></p>
+            <span class="categoria" id="res-categoria"></span>
+          </div>
+
+          <div class="medidor" id="res-medidor">
+            <div class="medidor-pista"><i id="res-barra"></i><b class="medidor-umbral" title="Umbral de confianza"></b></div>
+            <span class="medidor-valor" id="res-confianza"></span>
+          </div>
+
+          <ul class="alternativas" id="res-alternativas"></ul>
+
+          <div class="cinta">
+            <p class="cinta-titulo">Fotogramas de la seña</p>
+            <canvas id="res-cinta" aria-hidden="true"></canvas>
+            <p class="cinta-meta" id="res-meta"></p>
+          </div>
+        </div>
+      </section>
+
+      <section class="tarjeta vocabulario" aria-labelledby="vocabulario-titulo">
+        <header class="tarjeta-cabecera">
+          <h2 class="etiqueta" id="vocabulario-titulo">Vocabulario</h2>
+          <span class="contador" id="contador">0 / 54</span>
+        </header>
+        <div class="vocabulario-grupos" id="vocabulario"></div>
+      </section>
+    </aside>
+  </main>
+
+  <dialog class="dialogo" id="dialogo-como" aria-labelledby="dialogo-titulo">
+    <form method="dialog">
+      <button class="dialogo-cerrar" aria-label="Cerrar">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="m6 6 12 12M18 6 6 18"/></svg>
+      </button>
+    </form>
+    <h2 id="dialogo-titulo">Cómo funciona</h2>
+    <ol class="proceso">
+      <li>
+        <span>1</span>
+        <div><strong>Puntos del cuerpo.</strong> MediaPipe ubica 33 puntos del cuerpo y 21 de cada mano en cada cuadro del video (225 números por cuadro). Es el esqueleto que se dibuja sobre la imagen.</div>
+      </li>
+      <li>
+        <span>2</span>
+        <div><strong>Inicio y fin de la seña.</strong> La página aprende dónde descansan las manos. La seña empieza cuando una mano sube desde ahí y termina cuando vuelve o se queda quieta abajo. Por eso no hay botón de grabar.</div>
+      </li>
+      <li>
+        <span>3</span>
+        <div><strong>De puntos a imagen.</strong> Los puntos de todos los cuadros se acomodan en una sola imagen (TSSI): el tiempo va de arriba hacia abajo y las articulaciones de izquierda a derecha.</div>
+      </li>
+      <li>
+        <span>4</span>
+        <div><strong>Clasificación.</strong> Una red DenseNet-121, entrenada con 2.880 videos de 34 personas, elige entre las 54 señas. Si la confianza es menor a 60 %, la seña se marca como no reconocida.</div>
+      </li>
+    </ol>
+    <p class="dialogo-nota">En el conjunto de prueba, con personas que no participaron en el entrenamiento, el modelo acierta cerca del 90 % de las señas. Reconoce señas sueltas, no frases. Funciona mejor con buena luz, con las dos manos dentro de la imagen y bajando las manos entre una seña y la siguiente.</p>
+  </dialog>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

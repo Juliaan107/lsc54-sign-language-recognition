@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+Data/RawVideos/
+dataset_completo/features/
+dataset_completo/lsc*.train
+dataset_completo/lsc*.dev
+dataset_completo/lsc*.test
+dataset_completo/lsc*.all
+modelos/**/*.ckpt
+modelos/**/tensorboard/
+slt/signjoey/helpers.py.original
+Demo/herramientas/pruebas/datos/
+Demo/herramientas/pruebas/node_modules/
+Demo/video_ejemplo.mp4
